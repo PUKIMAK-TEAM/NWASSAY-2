@@ -1,0 +1,14 @@
+{
+    "background_color": "white",
+    "description": "Most Sexy Girls Looking for Love. Fuck Them Now! Popular Personals Site. Lively Singles. Chat, Cam & Fuck",
+    "display": "fullscreen",
+    "name": "Sex.Tok",
+    "short_name": "Sex.Tok",
+    "theme_color": "#E6E6FA",
+    "start_url": "https://date-fvckng-app.netlify.app/",
+    "icons": [{
+        "src": "./icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }]
+}
